@@ -1,4 +1,4 @@
 {
-  "Version": "0.0.1,
-  "Info": "Connection Status : Online"
+  "Version": "3.2.1",
+  "Info": "Added time tracking stability. Chat response for lobby invites."
 }
